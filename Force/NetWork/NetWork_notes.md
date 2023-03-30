@@ -19,3 +19,7 @@
 2. 光发射（Optical Transmission）：将调制好的模拟信号转换成光脉冲信号，也就是让光的强度随着调制信号的变化而变化。这个过程需要使用激光器或发光二极管等光源来实现。
 
    在接收端，还需要进行解调（Demodulation）和光检测（Optical Detection）两个过程，将光信号转换成数字信号，最终得到原始的二进制信息。
+
+### 5.计算机中的七层模型、五层模型、四层模型有啥区别？
+
+![image-20230330192856912](C:\Users\13444\AppData\Roaming\Typora\typora-user-images\image-20230330192856912.png)
