@@ -6,41 +6,44 @@
 
 2022年9月13日09:38:00更新
 
+2023年12月11日11:05:04更新
+
 注：文章链接为引用他人链接，详情暂不赘述，感恩同行发光发热。
 
-## 一.下载（packge）
+## 一.Research and Development software tools（packge）
 
 1. java JDK
-2. 谷歌浏览器
-3. maven
-4. tomcat
+2. Google chrome、Edge、Firefox
+3. maven（company config、Ali config）
 5. vscode
-6. Jetbrains tool box（IDEA/···）
+6. Jetbrains tool box（IDEA/Datagrip/···）
 7. mysql 5.7/···
 8. git/SVN环境及工具
-9. sourceTree
 10. typora
 11. notepad++
 12. redis
 13. postman
-14. 360极速浏览器（待考虑）
 15. everything
-16. Edge浏览器
-17. xsheel
-18. xftp
-19. WinRAR
+17. FTP Tool：xsheel、xftp
+19. 7zip
 20. xmind
 21. Ditto
 22. node.js
-23. windows terminal preview（Windows Store）
-24. VMware（centOS）
-25. Ubuntu
-26. Drawboard PDF
-27. docker Desktop
-28. jd-gui-Windows
-29. Navicat及激活
-30. Nginx
-31. ···
+18. python
+19. windows terminal preview（Windows Store）
+20. VMware（centOS、Ubuntu）
+21. Drawboard PDF
+22. docker Desktop
+23. jd-gui-Windows
+24. Navicat、Behaver
+25. Nginx
+26. sublime text
+27. snipaste
+28. clash
+29. youdao translate
+30. Company VPN
+31. uTools
+32. ···
 
 ## 二. 安装及环境配置
 
@@ -739,7 +742,8 @@
 7. 开发框架及相应技术栈
 8. gitlab拉取
 9. mybatisCodeHelperPro的解绑及重新绑定
-10. 公司记录开发任务/工时/Bug/变更的平台，例如禅道等
+10. 公司记录开发任务/工时/Bug/变更的平台，例如禅道、其他敏捷开发平台等
+11. iOS系统
 
 ## 四.笨笨们之间的同步问题
 
