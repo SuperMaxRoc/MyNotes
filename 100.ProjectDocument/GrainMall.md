@@ -106,27 +106,68 @@ A服务调用B服务，A服务并不知道B服务当前在哪几台服务器上�
 
 ### 4.1.1.vagrant命令
 
-CMD命令下
+常用命令：
 
-vagrant：
+```
+vagrant --version                # 查看 vagrant 版本
 
-<img src="../imgs/image-20231211231110872.png" alt="image-20231211231110872" style="zoom:25%;" />
+vagrant box list                 # 查看 box 列表
+vagrant box add [boxname] [url]  # 添加 box
+vagrant box remove [boxname]     # 移除 box
+vagrant box update               # 更新 box
+vagrant box repackage [name|id] --output [name]  # 打包 box
 
-vagrant init centos/7
+
+vagrant init [name [url]]  # 初始化，生成 Vagrantfile
+vagrant up [name|id]       # 启动虚拟机
+vagrant halt [name|id]     # 关闭虚拟机
+vagrant reload [name|id]   # 重启虚拟机
+vagrant reload --provision # 重新加载部分 Vagrantfile 中的配置项
+vagrant suspend [name|id]  # 挂起虚拟机
+vagrant resume [name|id]   # 唤醒挂起的虚拟机
+vagrant destory [name|id]  # 销毁虚拟机
+vagrant status [name|id]   # 查看虚拟机状态
+vagrant global-status      # 查看所有虚拟机的状态
+vagrant port [name|id]     # 查看端口映射
+vagrant validate  		   # 校验 Vagrantfile
+
+vagrant ssh [name|id]         # 进入虚拟机
+vagrant ssh-config [name|id]  # 查看 ssh 配置
+
+vagrant snapshot list       # 查看快照列表
+vagrant snapshot push       # 状态入栈
+vagrant snapshot pop        # 状态弹栈
+vagrant snapshot save [vm-name] [NAME]     # 保存一个快照，不要与 push 和 pop 混合使用
+vagrant snapshot restore [vm-name] [NAME]  # 恢复指定快照
+vagrant snapshot delete [vm-name] [NAME]   # 删除一个快照
+
+```
+
+实例：
+
+CMD下
+
+vagrant：弹出命令提示则说明安装成功
+
+<img src="../imgs/image-20231211231110872.png" alt="image-20231211231110872" style="zoom:100%;" />
+
+vagrant init centos/7：*初始化，生成 Vagrantfile*，windows系统下默认在用户文件夹下。
 
 ![image-20231211231132650](../imgs/image-20231211231132650.png)
 
-vagrant up
+vagrant up：*根据配置文件，启动虚拟机，如果第一次创建虚拟机则会在vagrant镜像仓库下拉取文件*
 
 ![image-20231211231143049](../imgs/image-20231211231143049.png)
 
-vagrant ssh
+vagrant ssh：进入虚拟机
 
 ### 4.1.2.虚拟机网络
 
 #### 4.1.2.1.端口转发
 
 #### 4.1.2.2.配置虚拟机网络
+
+[搞懂虚拟机VirtualBox网络配置 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/403513377)
 
 ## 4.2.Docker
 
