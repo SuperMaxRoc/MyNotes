@@ -8,42 +8,47 @@
 
 2023年12月11日11:05:04更新
 
+2024年03月19日 15:13:11更新
+
 注：文章链接为引用他人链接，详情暂不赘述，感恩同行发光发热。
 
 ## 一.Research and Development software tools（packge）
 
-1. java JDK
-2. Google chrome、Edge、Firefox
-3. maven（company config、Ali config）
-5. vscode
-6. Jetbrains tool box（IDEA/Datagrip/···）
-7. mysql 5.7/···
-8. git/SVN环境及工具
+1. java开发环境
+2. 前端开发环境（详解参考VUE.md）
+3. Python环境
+4. Google chrome、Edge、Firefox
+5. maven（company config、Ali config）
+6. vscode
+7. Jetbrains tool box（IDEA/Datagrip/···）
+8. mysql 5.7/···
+9. git/SVN环境及工具
 10. typora
 11. notepad++
 12. redis
 13. postman
-15. everything
-17. FTP Tool：xsheel、xftp
-19. 7zip
-20. xmind
-21. Ditto
-22. node.js
-18. python
-19. windows terminal preview（Windows Store）
-20. VMware（centOS、Ubuntu）
-21. Drawboard PDF
-22. docker Desktop
-23. jd-gui-Windows
-24. Navicat、Behaver
-25. Nginx
-26. sublime text
-27. snipaste
-28. clash
-29. youdao translate
-30. Company VPN
-31. uTools
-32. ···
+14. everything
+15. FTP Tool：xsheel、xftp
+16. 7zip
+17. xmind
+18. Ditto
+19. node.js
+20. python
+21. windows terminal preview（Windows Store）
+22. VMware（centOS、Ubuntu）
+23. Drawboard PDF
+24. docker Desktop
+25. jd-gui-Windows
+26. Navicat、Behaver
+27. Nginx
+28. sublime text
+29. snipaste
+30. youdao translate
+31. Company VPN（可有可无）
+32. uTools
+33. Clash for windows
+34. PotPlayer
+35. ···
 
 ## 二. 安装及环境配置
 
