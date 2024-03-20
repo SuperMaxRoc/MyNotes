@@ -28,7 +28,7 @@
 
 ### 1.2GitHub
 
-链接;https://github.com/Snailclimb/JavaGuide
+链接：https://github.com/Snailclimb/JavaGuide
 
 ## 2.summary
 

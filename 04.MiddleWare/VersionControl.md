@@ -35,15 +35,15 @@
 
 ## 1.本地版本控制
 
-<img src="../../imgs/image-20210124152716424.png" alt="image-20210124152716424" style="zoom: 50%;" />
+<img src="../imgs/image-20210124152716424.png" alt="image-20210124152716424" style="zoom: 50%;" />
 
 ## 2.集中版本控制 SVN
 
-<img src="../../imgs/image-20210124152751012.png" alt="image-20210124152751012" style="zoom:50%;" />
+<img src="../imgs/image-20210124152751012.png" alt="image-20210124152751012" style="zoom:50%;" />
 
 ## 3.分布式版本控制 Git
 
-<img src="../../imgs/image-20210124152824381.png" alt="image-20210124152824381" style="zoom:50%;" />
+<img src="../imgs/image-20210124152824381.png" alt="image-20210124152824381" style="zoom:50%;" />
 
 # 五.git和svn的区别
 
@@ -65,7 +65,7 @@ https://blog.csdn.net/sanxd/article/details/82624127?ops_request_misc=%25257B%25
 
 安装成功之后会出现这三个程序：如下图
 
-![image-20210124155043187](../../imgs/image-20210124155043187.png)
+![image-20210124155043187](../imgs/image-20210124155043187.png)
 
 **Git Bash：**Unix与Linux风格的命令行，使用最多，推荐最多
 
@@ -112,13 +112,13 @@ git config --global user.email 1344471553@qq.com #邮箱
 
 git的配置：C:\Program Files\Git\etc
 
-![image-20210124160930565](../../imgs/image-20210124160930565.png)
+![image-20210124160930565](../imgs/image-20210124160930565.png)
 
 用户配置：C:\Users\13444\ .gitconfig
 
 文件内容：
 
-![image-20210124160657775](../../imgs/image-20210124160657775.png)
+![image-20210124160657775](../imgs/image-20210124160657775.png)
 
 ## 5.git的工作原理
 
@@ -129,7 +129,7 @@ git的配置：C:\Program Files\Git\etc
 - 仓库区：History
 - 远程仓库：Remote Directory
 
-<img src="../../imgs/image-20210124163848946.png" alt="image-20210124163848946" style="zoom:50%;" />
+<img src="../imgs/image-20210124163848946.png" alt="image-20210124163848946" style="zoom:50%;" />
 
 ### 2.工作流程
 
@@ -139,7 +139,7 @@ git的配置：C:\Program Files\Git\etc
 ３、将暂存区域的文件提交到git仓库。
 ```
 
-<img src="../../imgs/image-20210124164333486.png" alt="image-20210124164333486" style="zoom:50%;" />
+<img src="../imgs/image-20210124164333486.png" alt="image-20210124164333486" style="zoom:50%;" />
 
 3.常见的git命令
 
@@ -323,7 +323,7 @@ target/
 
 ### 1.官网：https://gitee.com/
 
-<img src="../../imgs/image-20210124171727968.png" alt="image-20210124171727968" style="zoom:33%;" />
+<img src="../imgs/image-20210124171727968.png" alt="image-20210124171727968" style="zoom:33%;" />
 
 ### 2.免密码登录：SSH公钥
 
@@ -361,7 +361,7 @@ ssh -keygen -t rsa
 
 # 八.分支是什么？
 
-![image-20210124180335271](../../imgs/image-20210124180335271.png)
+![image-20210124180335271](../imgs/image-20210124180335271.png)
 
 ```xml
 git分支中常用指令：
@@ -392,13 +392,13 @@ $ git push origin --delete [branch-name]
 $ git branch -dr [remote/branch]
 ```
 
-![image-20210124180952107](../../imgs/image-20210124180952107.png)
+![image-20210124180952107](../imgs/image-20210124180952107.png)
 
 # 九.可视化工具
 
 ## 1.IDEA集成Git
 
-![image-20210124174906380](../../imgs/image-20210124174906380.png)
+![image-20210124174906380](../imgs/image-20210124174906380.png)
 
 ## 2.TortoiseGit
 

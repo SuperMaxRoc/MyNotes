@@ -66,7 +66,7 @@
 
 - **配置本地maven仓库**
 
-![image-20210408175014596](../../imgs/image-20210408175014596.png)
+![image-20210408175014596](../imgs/image-20210408175014596.png)
 
 ### 3.Data
 
@@ -86,7 +86,7 @@
 
   设置：https://blog.csdn.net/tian_ci/article/details/85257667
 
-  ![image-20210218164321877](../../imgs/image-20210218164321877.png)
+  ![image-20210218164321877](../imgs/image-20210218164321877.png)
 
 ### 5.Git/SVN
 
@@ -626,11 +626,11 @@
 
 <img src="../../鱼皮-分享IDEA精品插件.jpg" alt="鱼皮-分享IDEA精品插件" style="zoom:25%;" />
 
-<img src="../../imgs/image-20211013111954019.png" alt="image-20211013111954019" style="zoom: 50%;" />
+<img src="../imgs/image-20211013111954019.png" alt="image-20211013111954019" style="zoom: 50%;" />
 
-<img src="../../imgs/image-20211013112012771.png" alt="image-20211013112012771" style="zoom:50%;" />
+<img src="../imgs/image-20211013112012771.png" alt="image-20211013112012771" style="zoom:50%;" />
 
-<img src="../../imgs/image-20211013112030900.png" alt="image-20211013112030900" style="zoom:50%;" />
+<img src="../imgs/image-20211013112030900.png" alt="image-20211013112030900" style="zoom:50%;" />
 
 
 
@@ -638,11 +638,11 @@
 
 效果图：
 
-![image-20210218151528181](../../imgs/image-20210218151528181.png)
+![image-20210218151528181](../imgs/image-20210218151528181.png)
 
 如何设置？：
 
-<img src="../../imgs/image-20210218151419048.png" alt="image-20210218151419048" style="zoom:50%;" />
+<img src="../imgs/image-20210218151419048.png" alt="image-20210218151419048" style="zoom:50%;" />
 
 #### 6.6IDEA设置使空格处显示小点
 
@@ -650,7 +650,7 @@
 
 效果图：
 
-![image-20210218151746707](../../imgs/image-20210218151746707.png)
+![image-20210218151746707](../imgs/image-20210218151746707.png)
 
 #### 6.7创建类及方法快速添加注释
 
@@ -673,11 +673,11 @@
 
 2. **第一种**：方式给某一类型添加特定的注释，下图以Class为例
 
-   <img src="../../imgs/image-20211013114038071.png" alt="image-20211013114038071" style="zoom:33%;" />
+   <img src="../imgs/image-20211013114038071.png" alt="image-20211013114038071" style="zoom:33%;" />
 
 3. **第二种**：在File Header 中添加的会在类和接口中都起作用，如下图所示
 
-   <img src="../../imgs/image-20211013114301578.png" alt="image-20211013114301578" style="zoom:33%;" />
+   <img src="../imgs/image-20211013114301578.png" alt="image-20211013114301578" style="zoom:33%;" />
 
 ##### 6.7.2创建方法快速添加注释
 
@@ -697,15 +697,15 @@
 
 2. 选择右边的 + 点击 Template Group 输入MyGroup
 
-   <img src="../../imgs/image-20211013114725437.png" alt="image-20211013114725437" style="zoom:33%;" />
+   <img src="../imgs/image-20211013114725437.png" alt="image-20211013114725437" style="zoom:33%;" />
 
 3. 建一个方法注释模板
 
-   <img src="../../imgs/image-20211013114810921.png" alt="image-20211013114810921" style="zoom:33%;" />
+   <img src="../imgs/image-20211013114810921.png" alt="image-20211013114810921" style="zoom:33%;" />
 
-   <img src="../../imgs/image-20211013115016722.png" alt="image-20211013115016722" style="zoom:50%;" />
+   <img src="../imgs/image-20211013115016722.png" alt="image-20211013115016722" style="zoom:50%;" />
 
-   <img src="../../imgs/image-20211013115217856.png" alt="image-20211013115217856" style="zoom:50%;" />
+   <img src="../imgs/image-20211013115217856.png" alt="image-20211013115217856" style="zoom:50%;" />
 
    4. 添加注释用法，直接输入名字或者/**+tab键
 
@@ -730,11 +730,11 @@
     4. ping某个网址
     5. node.js安装是否成功（查看相应版本）：node -v
 
-  ![image-20210411222249265](../../imgs/image-20210411222249265.png)
+  ![image-20210411222249265](../imgs/image-20210411222249265.png)
 
     6. 验证npm是否安装成功：npm -v
 
-       ![image-20210411222428097](../../imgs/image-20210411222428097.png)
+       ![image-20210411222428097](../imgs/image-20210411222428097.png)
 
 ## 三.新工作必问问题
 

@@ -4,7 +4,7 @@ https://blog.csdn.net/qq_36595013/article/details/95177117?ops_request_misc=%257
 
 ## 1.什么是Swagger？
 
-![image-20210311162417841](../../imgs/image-20210311162417841.png)
+![image-20210311162417841](../imgs/image-20210311162417841.png)
 
 用于解决前后台同事接口参数数据等
 
@@ -109,11 +109,11 @@ public class TestSwaggerController {
 
 地址：http://localhost:8080/swagger-ui.html
 
-![image-20210323220604585](../../imgs/image-20210323220604585.png)
+![image-20210323220604585](../imgs/image-20210323220604585.png)
 
-![image-20210323220627908](../../imgs/image-20210323220627908.png)
+![image-20210323220627908](../imgs/image-20210323220627908.png)
 
-![image-20210323220637557](../../imgs/image-20210323220637557.png)
+![image-20210323220637557](../imgs/image-20210323220637557.png)
 
 ### 4.2Swagger3
 
@@ -144,19 +144,19 @@ public class TestSwaggerController {
 
 链接：http://localhost:8080/swagger-ui/index.html
 
-![image-20210323222235544](../../imgs/image-20210323222235544.png)
+![image-20210323222235544](../imgs/image-20210323222235544.png)
 
 ### 4.3swagger2和swagger3的区别
 
 链接：https://blog.csdn.net/u014389734/article/details/113875955?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_utm_term-0&spm=1001.2101.3001.4242
 
-![image-20210323221751014](../../imgs/image-20210323221751014.png)
+![image-20210323221751014](../imgs/image-20210323221751014.png)
 
 ## 5.使用swagger进行接口调试
 
-![img](../../imgs/clip_image002.jpg)
+![img](../imgs/clip_image002.jpg)
 
-![img](../../imgs/clip_image002-1616510672404.jpg)
+![img](../imgs/clip_image002-1616510672404.jpg)
 
 ## 6.Swagger配置
 
@@ -189,7 +189,7 @@ public class swaggerConfig3 {
 
 效果如下图：
 
-![image-20210323231456501](../../imgs/image-20210323231456501.png)
+![image-20210323231456501](../imgs/image-20210323231456501.png)
 
 ### 6.2指定扫描特定包下面的注解
 
@@ -197,7 +197,7 @@ public class swaggerConfig3 {
 docket.select()        .apis(RequestHandlerSelectors.basePackage("com.roc.study.Controller"));//扫描指定包下面的注解
 ```
 
-![image-20210609155503097](../../imgs/image-20210609155503097.png)
+![image-20210609155503097](../imgs/image-20210609155503097.png)
 
 ### 6.3屏蔽使用了某个注解的方法
 
@@ -223,7 +223,7 @@ public @interface MyAnnotation {
    
 ```
 
-![image-20210324101730863](../../imgs/image-20210324101730863.png)
+![image-20210324101730863](../imgs/image-20210324101730863.png)
 
 #### 6.3.2屏蔽掉特定注解
 
